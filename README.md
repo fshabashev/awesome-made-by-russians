@@ -146,11 +146,11 @@
 - **[CSSO](https://github.com/css/csso)** by [Roman Dvornov](https://github.com/lahmatiy)<br>
   CSS minifier with structural optimizations.
   
-- **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
-  Powerful and efficient Computer Vision Annotation Tool.
-  
 - **[CUBEjs](https://github.com/cube-js/cube.js)** by [Cube Dev](https://cube.dev/)<br>
   Open-source analytical API platform.
+
+- **[CVAT](https://github.com/opencv/cvat)** by [Intel Russla](https://github.com/intel)<br>
+  Powerful and efficient Computer Vision Annotation Tool.
   
 - **[Data Science Blogs](https://github.com/rushter/data-science-blogs)** by [Artem Golubin](https://github.com/rushter)<br>
   A curated list of data science blogs.
